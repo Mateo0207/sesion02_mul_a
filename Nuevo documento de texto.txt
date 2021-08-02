@@ -1,0 +1,10 @@
+Realice las siguientes consultas de los temas:
+
+* Sistemas de coordenadas: Polares, cilindricas, cartesianas, esfericas.
+
+Los siguientes son los links donde estuve consultando y aprendiendo:
+
+* http://www.ehu.eus/~mtpalezp/mundo/ana2/esfericas.html
+* https://es.wikipedia.org/wiki/Coordenadas_cil%C3%ADndricas
+* https://calculo21.com/coordenadas-cilindricas-y-esfericas/
+* https://www.disfrutalasmatematicas.com/graficos/coordenadas-polares-cartesianas.html
